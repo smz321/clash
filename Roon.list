@@ -1,0 +1,11 @@
+# 名称: ROON
+# 作者: smz321
+
+# 域名匹配
+DOMAIN,api.roonlabs.net
+# 域名后缀匹配
+DOMAIN-SUFFIX,roonlabs.net
+DOMAIN-SUFFIX,roonlabs.com
+# 域名关键字匹配
+DOMAIN-KEYWORD,roonlabs
+DOMAIN-KEYWORD,roon
