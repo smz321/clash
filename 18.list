@@ -5,12 +5,17 @@
 DOMAIN,fh-xy.net
 DOMAIN,hjd2048.com
 DOMAIN,51cg1.com
+DOMAIN,www.w3.org
+DOMAIN,gitgud.io
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,fh-xy.net
 DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,51cg1.com
+DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,gitgud.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,51
 DOMAIN-KEYWORD,2048
+DOMAIN-KEYWORD,gitgud
